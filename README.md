@@ -1,7 +1,7 @@
 ## Hi there 👋 Priyansh Tanwer
 <div>
   <img src=""/>
-  <img src="https://giphy.com/embed/3ov9jNziFTMfzSumAw" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img><p><a href="https://giphy.com/gifs/usnationalarchives-vintage-computer-3ov9jNziFTMfzSumAw">via GIPHY</a></p>
+  <img src="https://giphy.com/embed/3ov9jNziFTMfzSumAw" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
 </div>
 
 <!--
