@@ -1,4 +1,4 @@
-## Hi there 👋 Priyansh Tanwer
+## Hi there 👋 Priyansh Tanwar
 <div>
   <img src=""/>
   <img src="https://giphy.com/embed/3ov9jNziFTMfzSumAw" width="480" height="271" style="" frameBorder="0" class="giphy-embed" allowFullScreen></img>
