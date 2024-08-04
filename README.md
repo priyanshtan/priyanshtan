@@ -11,6 +11,9 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" style="height:30px;">
   </a>
 </h2>
+<div>
+  <iframe src="https://giphy.com/embed/4Ev0Ari2Nd9io" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ninja-scroll-birds-4Ev0Ari2Nd9io">via GIPHY</a></p>
+</div>
 🌱 I'm constantly learning and love tackling new challenges. Let's build something amazing together!
 
 
