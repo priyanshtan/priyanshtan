@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Abhinandan!<br><br>🚀Aspiring software engineer passionate about full-stack development. Experienced with Java, JavaScript, React.js, and the MERN stack. Always eager to learn and take on new challenges. Let's build something amazing together!<br><br>🌱 I'm constantly learning and love tackling new challenges. Let's build something amazing together!
+👋 Hi, I'm Priyansh!<br><br>🚀Aspiring software engineer passionate about full-stack development. Experienced with Java, JavaScript, React.js, and the MERN stack. Always eager to learn and take on new challenges. Let's build something amazing together!<br><br>🌱 I'm constantly learning and love tackling new challenges. Let's build something amazing together!
 
 
 ## 🌐 Socials:
