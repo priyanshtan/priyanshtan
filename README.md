@@ -12,7 +12,7 @@
   </a>
 </h2>
 <div>
-  <iframe src="https://giphy.com/embed/4Ev0Ari2Nd9io" width="480" height="360" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/ninja-scroll-birds-4Ev0Ari2Nd9io">via GIPHY</a></p>
+  <img src="https://giphy.com/gifs/ninja-scroll-birds-4Ev0Ari2Nd9io">
 </div>
 🌱 I'm constantly learning and love tackling new challenges. Let's build something amazing together!
 
