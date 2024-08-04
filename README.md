@@ -5,9 +5,10 @@
 </div>
 
 <h2 align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbhinandanDaksh&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  <img src="https://komarev.com/ghpvc/?username=priyanshtan
+&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
   Fullstack Developer
-  <a href="https://portfolio-jade-two-40.vercel.app/">
+  <a href="https://illustrious-longma-e68849.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" style="height:30px;">
   </a>
 </h2>
