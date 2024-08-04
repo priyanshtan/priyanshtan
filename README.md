@@ -1,5 +1,13 @@
 # 💫 About Me:
-👋 Hi, I'm Priyansh!<br><br>🚀Aspiring software engineer passionate about full-stack development. Experienced with Java, JavaScript, React.js, and the MERN stack. Always eager to learn and take on new challenges. Let's build something amazing together!<br><br>🌱 I'm constantly learning and love tackling new challenges. Let's build something amazing together!
+👋 Hi, I'm Priyansh!<br><br>🚀Aspiring software engineer passionate about full-stack development. Experienced with Java, JavaScript, React.js, and the MERN stack. Always eager to learn and take on new challenges. Let's build something amazing together!<br><br>
+<h2 align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbhinandanDaksh&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:21px;">
+  Fullstack Developer
+  <a href="https://portfolio-jade-two-40.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" style="height:30px;">
+  </a>
+</h2>
+🌱 I'm constantly learning and love tackling new challenges. Let's build something amazing together!
 
 
 ## 🌐 Socials:
