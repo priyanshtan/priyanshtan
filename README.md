@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" style="height:30px;">
   </a>
 </h2>
-<div>
+<div align="center">
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3R3bXl4a3d0dG8wbGlpZ3dwaXN5aDhicmRlcnlsNHkza2xraHg0dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/4Ev0Ari2Nd9io/giphy.gif">
 </div>
 🌱 I'm constantly learning and love tackling new challenges. Let's build something amazing together!
