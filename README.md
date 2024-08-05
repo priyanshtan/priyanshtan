@@ -19,7 +19,7 @@
 
 ## 🌐 Socials:
 <a href="mailto:abhinandandaksh@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" style="height:">
+    <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" >
   </a>
   <a href="https://www.instagram.com/tanwar.9998/">
     <img src="https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram" style="height:">
