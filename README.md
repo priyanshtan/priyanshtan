@@ -21,6 +21,8 @@
 <p>R D Engineering College 2024</p>
 <span><img src="https://img.shields.io/badge/BTECH-AKTU-1877F2?style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/GPA-7.3-EFEEE9?style=for-the-badge"></span>
+
+
 ## 🌐 Socials:
 <a href="mailto:abhinandandaksh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" >
