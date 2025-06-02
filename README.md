@@ -18,7 +18,7 @@
 
 
 ## 👨🏻‍🎓 Academics:
-<p>R D Engineering College 2024</p>
+<p>Dr. A.P.J. Abdul Kalam Technical University 2024</p>
 <span><img src="https://img.shields.io/badge/BTECH-AKTU-1877F2?style=for-the-badge"></span>
 <span><img src="https://img.shields.io/badge/CGPA-7.33-EFEEE9?style=for-the-badge"></span>
 
