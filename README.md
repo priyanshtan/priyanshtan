@@ -5,7 +5,9 @@
 </div>
 
 <h2 align="center">
-  <img src="https://visitcount.itsvg.in/api?id=priyanshtan&icon=0&color=0" alt="Profile Views" style="height:21px;">
+ <a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=priyanshtan&label=Profile%20Views&icon=5&pretty=false" />
+</a>
   Fullstack Developer
   <a href="https://illustrious-longma-e68849.netlify.app/">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio" style="height:30px;">
